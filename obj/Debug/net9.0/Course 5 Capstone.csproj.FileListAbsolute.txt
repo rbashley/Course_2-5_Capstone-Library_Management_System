@@ -1,0 +1,28 @@
+/Users/randallashley/Documents/GitHub/Course 5 Capstone-Library_Management_System/bin/Debug/net9.0/Course 5 Capstone
+/Users/randallashley/Documents/GitHub/Course 5 Capstone-Library_Management_System/bin/Debug/net9.0/Course 5 Capstone.deps.json
+/Users/randallashley/Documents/GitHub/Course 5 Capstone-Library_Management_System/bin/Debug/net9.0/Course 5 Capstone.runtimeconfig.json
+/Users/randallashley/Documents/GitHub/Course 5 Capstone-Library_Management_System/bin/Debug/net9.0/Course 5 Capstone.dll
+/Users/randallashley/Documents/GitHub/Course 5 Capstone-Library_Management_System/bin/Debug/net9.0/Course 5 Capstone.pdb
+/Users/randallashley/Documents/GitHub/Course 5 Capstone-Library_Management_System/obj/Debug/net9.0/Course 5 Capstone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/randallashley/Documents/GitHub/Course 5 Capstone-Library_Management_System/obj/Debug/net9.0/Course 5 Capstone.AssemblyInfoInputs.cache
+/Users/randallashley/Documents/GitHub/Course 5 Capstone-Library_Management_System/obj/Debug/net9.0/Course 5 Capstone.AssemblyInfo.cs
+/Users/randallashley/Documents/GitHub/Course 5 Capstone-Library_Management_System/obj/Debug/net9.0/Course 5 Capstone.csproj.CoreCompileInputs.cache
+/Users/randallashley/Documents/GitHub/Course 5 Capstone-Library_Management_System/obj/Debug/net9.0/Course 5 Capstone.dll
+/Users/randallashley/Documents/GitHub/Course 5 Capstone-Library_Management_System/obj/Debug/net9.0/refint/Course 5 Capstone.dll
+/Users/randallashley/Documents/GitHub/Course 5 Capstone-Library_Management_System/obj/Debug/net9.0/Course 5 Capstone.pdb
+/Users/randallashley/Documents/GitHub/Course 5 Capstone-Library_Management_System/obj/Debug/net9.0/Course 5 Capstone.genruntimeconfig.cache
+/Users/randallashley/Documents/GitHub/Course 5 Capstone-Library_Management_System/obj/Debug/net9.0/ref/Course 5 Capstone.dll
+/Users/randallashley/Documents/GitHub/Course_2-5_Capstone-Library_Management_System/bin/Debug/net9.0/Course 5 Capstone
+/Users/randallashley/Documents/GitHub/Course_2-5_Capstone-Library_Management_System/bin/Debug/net9.0/Course 5 Capstone.deps.json
+/Users/randallashley/Documents/GitHub/Course_2-5_Capstone-Library_Management_System/bin/Debug/net9.0/Course 5 Capstone.runtimeconfig.json
+/Users/randallashley/Documents/GitHub/Course_2-5_Capstone-Library_Management_System/bin/Debug/net9.0/Course 5 Capstone.dll
+/Users/randallashley/Documents/GitHub/Course_2-5_Capstone-Library_Management_System/bin/Debug/net9.0/Course 5 Capstone.pdb
+/Users/randallashley/Documents/GitHub/Course_2-5_Capstone-Library_Management_System/obj/Debug/net9.0/Course 5 Capstone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/randallashley/Documents/GitHub/Course_2-5_Capstone-Library_Management_System/obj/Debug/net9.0/Course 5 Capstone.AssemblyInfoInputs.cache
+/Users/randallashley/Documents/GitHub/Course_2-5_Capstone-Library_Management_System/obj/Debug/net9.0/Course 5 Capstone.AssemblyInfo.cs
+/Users/randallashley/Documents/GitHub/Course_2-5_Capstone-Library_Management_System/obj/Debug/net9.0/Course 5 Capstone.csproj.CoreCompileInputs.cache
+/Users/randallashley/Documents/GitHub/Course_2-5_Capstone-Library_Management_System/obj/Debug/net9.0/Course 5 Capstone.dll
+/Users/randallashley/Documents/GitHub/Course_2-5_Capstone-Library_Management_System/obj/Debug/net9.0/refint/Course 5 Capstone.dll
+/Users/randallashley/Documents/GitHub/Course_2-5_Capstone-Library_Management_System/obj/Debug/net9.0/Course 5 Capstone.pdb
+/Users/randallashley/Documents/GitHub/Course_2-5_Capstone-Library_Management_System/obj/Debug/net9.0/Course 5 Capstone.genruntimeconfig.cache
+/Users/randallashley/Documents/GitHub/Course_2-5_Capstone-Library_Management_System/obj/Debug/net9.0/ref/Course 5 Capstone.dll
